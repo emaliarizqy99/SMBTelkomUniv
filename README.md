@@ -1,9 +1,6 @@
 # SMBTelkomUniv
 
-* Screenshots
-![screenshot1](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-44-25-415_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
-![screenshot2](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-45-03-342_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
-![screenshot3](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-45-35-072_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
+Emalia Rizqy Nanjarwadi, XIIR4, 12, 4334/1232.063, SMK TELKOM MALANG
 
 link download apk:
 https://drive.google.com/open?id=0B-HlnM4LnN_rNTdhMnp2Q2lrTzg
@@ -13,4 +10,8 @@ https://drive.google.com/open?id=0B-HlnM4LnN_rNTdhMnp2Q2lrTzg
 3. Aplikasi ini jika Nama, Tempat Lahir, dan Tahun Lahir tidak diisi terdapat simbol pentung yang menandakan belum diisi.
    Dan jika Jenis Kelamin dan Pilih Jurusan tidak diisi terdapat tulisan anda belum mengisi.
 
-Emalia Rizqy Nanjarwadi, XIIR4, 12, 4334/1232.063, SMK TELKOM MALANG
+
+* Screenshots
+![screenshot1](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-44-25-415_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
+![screenshot2](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-45-03-342_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
+![screenshot3](https://github.com/emaliarizqy99/SMBTelkomUniv/blob/master/Screenshot_2016-10-14-16-45-35-072_id.sch.smktelkom_mlg.tugas01.xiirpl4012.smbtelkomuniv.png)
