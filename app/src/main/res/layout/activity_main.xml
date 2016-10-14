@@ -45,7 +45,8 @@
             android:id="@+id/editTextTahun"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Tahun Lahir" />
+            android:hint="Tahun Lahir"
+            android:inputType="numberSigned" />
 
         <TextView
             android:id="@+id/textView2"
@@ -54,6 +55,7 @@
             android:text="Jenis Kelamin :" />
 
         <RadioGroup
+            android:id="@+id/radioGroup"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
@@ -80,6 +82,7 @@
             android:id="@+id/spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:entries="@array/pilihan"
             android:spinnerMode="dropdown" />
 
         <TextView
@@ -89,16 +92,16 @@
             android:text="Pilih Jurusan :" />
 
         <CheckBox
-            android:id="@+id/checkBox"
+            android:id="@+id/checkBoxMana"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Management Bisnis Teknologi Informatika" />
+            android:text="MBTI" />
 
         <CheckBox
-            android:id="@+id/checkBox2"
+            android:id="@+id/checkBoxTi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Teknologi Informatika" />
+            android:text="TI" />
 
         <Button
             android:id="@+id/button"
