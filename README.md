@@ -11,6 +11,7 @@
 https://drive.google.com/open?id=0B-HlnM4LnN_rNTdhMnp2Q2lrTzg
 
  ## Tentang Aplikasi Pendaftaran Mahasiswa Baru
+ 
 1. Aplikasi ini digunakan untuk pendaftaran mahasiswa baru di Telkom University
 2. Aplikasi ini terdiri dari 6 TextView, 1 ImageView 3 EditText, 1 RadioGroup, 2 RadioButton, 1 Spinner, 2 CheckBox, 1 Button, dan ScrollView
 3. Aplikasi ini jika Nama, Tempat Lahir, dan Tahun Lahir tidak diisi terdapat simbol pentung yang menandakan belum diisi.
